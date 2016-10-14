@@ -6,20 +6,20 @@ exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
 disqus: calm2016
-google_analytics: dbyll
-title: dbyll
+google_analytics: calm
+title: calm
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: calm
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
+  name: calm
+  email: calm@ismaildemirbilek.com
   github: dbtek
   twitter: dbtek
   pinterest: asd123
